@@ -1,0 +1,34 @@
+--- Scrambled Piece Matrix Shapes (First 5) ---
+
+This file acts as a key for the scrambled pieces.
+
+
+Scrambled Piece Index 0:
+  Original Index: 31 (The piece's location before scrambling)
+  Matrix Shape: (50, 50, 3) (Height x Width x RGB)
+  Rotation Applied: 180 degrees
+
+
+Scrambled Piece Index 1:
+  Original Index: 46 (The piece's location before scrambling)
+  Matrix Shape: (50, 50, 3) (Height x Width x RGB)
+  Rotation Applied: 90 degrees
+
+
+Scrambled Piece Index 2:
+  Original Index: 28 (The piece's location before scrambling)
+  Matrix Shape: (50, 50, 3) (Height x Width x RGB)
+  Rotation Applied: 180 degrees
+
+
+Scrambled Piece Index 3:
+  Original Index: 48 (The piece's location before scrambling)
+  Matrix Shape: (50, 50, 3) (Height x Width x RGB)
+  Rotation Applied: 0 degrees
+
+
+Scrambled Piece Index 4:
+  Original Index: 60 (The piece's location before scrambling)
+  Matrix Shape: (50, 50, 3) (Height x Width x RGB)
+  Rotation Applied: 0 degrees
+
