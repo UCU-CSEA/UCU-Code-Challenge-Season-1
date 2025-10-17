@@ -1,5 +1,7 @@
 # 🧩 The Random Image Puzzle Challenge
 
+[Google Collab Link](https://colab.research.google.com/github/UCU-CSEA/UCU-Code-Challenge-Season-1/blob/main/puzzle.ipynb))
+
 ## Introduction
 
 The overall goal is to reconstruct the original image by correcting the sequence and orientation of the fragmented pieces.
