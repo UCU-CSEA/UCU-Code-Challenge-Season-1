@@ -52,4 +52,6 @@ After the pieces are in the correct sequence, the solver must iterate through $\
 
 $$\mathbf{A}_{sorted} \xrightarrow{\text{Undo } \theta} \text{Final Reconstructed Image}$$
 
-The file piece_matrix_shapes.txt contains a log of the dimensions and rotations applied to the first three scrambled pieces, which can be used to verify the data structure and rotation logic
+The file 'scrambled_puzzle_data.pkl contains a log of the dimensions and rotations applied to the first three scrambled pieces, which can be used to verify the data structure and rotation logic.
+
+## Read the Scramble Data Guide in order to use the .pkl file. 
